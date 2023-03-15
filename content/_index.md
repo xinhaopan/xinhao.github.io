@@ -8,8 +8,6 @@ sections:
   - block: hero
     content:
       title: Hugo Academic Theme
-      image:
-        filename: hero-academic.png
 
       cta_alt:
         label: Ask a question
