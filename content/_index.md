@@ -7,7 +7,6 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Hugo Academic Theme
 
       cta_alt:
         label: Ask a question
