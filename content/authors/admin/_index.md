@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xinhao 鑫豪
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Xinhao
-last_name: Pan
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Beijing Normal University
-    url: https://www.bnu.edu.cn/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
