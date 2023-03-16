@@ -27,7 +27,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - Publications
         author: ""
         category: ""
         tag: ""
