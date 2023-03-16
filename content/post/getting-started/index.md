@@ -3,13 +3,13 @@ title: University of Groningen
 subtitle: Exchange student of Spatial Sciences
 
 # Summary for listings and search engines
-summary: Exchange student of Spatial Sciences
+summary: Exchange student of Spatial Sciences 
 
-title: University of Groningen
-subtitle: Exchange student of Spatial Sciences
+Groningen, Netherlands
 
-# Summary for listings and search engines
-summary: Exchange student of Spatial Sciences
+09/2022~02/2023 
+
+
 ---
 
 
