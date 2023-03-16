@@ -18,7 +18,7 @@ sections:
     id: posts
     content:
       title: Education
-      subtitle: 'aaa'
+      subtitle: 'a1'
       
     design:
       # Choose a layout view
