@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: Classic 
+  theme_day: Minimal
+  theme_night: Minimal
   font: Minimal
   font_size: L
 
@@ -31,7 +31,7 @@ marketing:
 
 header:
   navbar:
-    enable: true
+    enable: false
     align: l
     show_logo: true
     show_language: false
