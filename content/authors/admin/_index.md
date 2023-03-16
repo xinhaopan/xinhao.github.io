@@ -26,7 +26,7 @@ bio: I am finding a Ph.D. position in Geography.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligenc
   - Computational Linguistics
   - Information Retrieval
 
