@@ -32,14 +32,14 @@ sections:
           date_start: '09/2022'
           date_end: '02/2023'
           
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Exchange student
+          company: University of Groningen
+          company_url: 'https://www.rug.nl/?lang=en'
+          company_logo: org-gc
+          location: Groningen, Netherlands
+          date_start: '09/2022'
+          date_end: '02/2023'
+
     design:
       columns: '2'
   - block: accomplishments
