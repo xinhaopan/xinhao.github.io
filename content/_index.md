@@ -12,9 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: experience
+  - block: education
     content:
-      title: Experience
+      title: Education
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -24,19 +24,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Exchange student
+          company: University of Groningen
+          company_url: 'https://www.rug.nl/?lang=en'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          location: Groningen, Netherlands
+          date_start: '09/2022'
+          date_end: '02/2023'
+          
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
