@@ -1,5 +1,5 @@
 ---
-title: University of Groningen
+title: University of Groningen1
 subtitle: I was an exchange student at the faculty of Spatial Planning at the University of Groningen in the Netherlands.
 authors:
   - admin
