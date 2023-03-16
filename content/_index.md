@@ -20,10 +20,10 @@ sections:
       title: Education
       subtitle: 'aaa'
       
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+
+
+
+
 
   - block: portfolio
     id: projects
