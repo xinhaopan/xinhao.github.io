@@ -17,9 +17,9 @@ sections:
 
 
   - block: collection
-    id: posts
+    id: PUBLICATIONS
     content:
-      title: Recent Posts
+      title: Publications
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
