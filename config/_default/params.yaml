@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Classic 
+  theme_day: 1950s
   theme_night: Classic 
-  font: Classic 
+  font: Minimal
   font_size: L
 
 # SEO
