@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Minimal
-  theme_night: Minimal
-  font: Minimal
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
   font_size: L
 
 # SEO
@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Xinhao’s academic websit'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
@@ -45,7 +45,7 @@ footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
