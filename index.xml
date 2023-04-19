@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiong Weidan</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiong Weidan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>XIONG WEIDAN©2022</copyright><lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xiong Weidan</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Digital Product Design and Engineering Analysis Techniques, Chapter 2, Digital Manufacturing</title>
+      <link>/publication/3dpbook/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0800</pubDate>
+      <guid>/publication/3dpbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeArchit: Shape-inspired Architecture Design with Space Planning</title>
+      <link>/publication/shapearchit/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0800</pubDate>
+      <guid>/publication/shapearchit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architectural Design from Sketches</title>
+      <link>/talk/2021workshop/</link>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <guid>/talk/2021workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rationalizing Architectural Surfaces Based on Clustering of Joints</title>
+      <link>/publication/remeshing/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0800</pubDate>
+      <guid>/publication/remeshing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Element Placement on 3D Surfaces</title>
+      <link>/publication/porepatent/</link>
+      <pubDate>Sat, 20 Mar 2021 00:00:00 +0800</pubDate>
+      <guid>/publication/porepatent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Part Design with Additive Manufacturing</title>
+      <link>/talk/2020webinar/</link>
+      <pubDate>Tue, 03 Nov 2020 09:30:00 +0000</pubDate>
+      <guid>/talk/2020webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-Inspired Architecture Design</title>
+      <link>/talk/2018webinar/</link>
+      <pubDate>Sun, 06 May 2018 09:30:00 +0000</pubDate>
+      <guid>/talk/2018webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape-Inspired Architectural Design</title>
+      <link>/publication/shape/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0800</pubDate>
+      <guid>/publication/shape/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
